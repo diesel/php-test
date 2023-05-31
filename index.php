@@ -5,8 +5,8 @@
 			$PAGE_TITLE = "About Us";
 			break;
 		case "/php-template/contact.php":
-			$CURRENT_PAGE = "Contact";
-			$PAGE_TITLE = "Contact Us";
+			$CURRENT_PAGE = "Connect";
+			$PAGE_TITLE = "Get in touch";
 			break;
 		default:
 			$CURRENT_PAGE = "Index";
